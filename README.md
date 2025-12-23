@@ -1,6 +1,6 @@
 # spec-lead-persona
 
-A Claude Code agent persona for specification authorship and stewardship.
+An agent-persona (https://github.com/GoodFarming/agent-persona) for specification authorship and stewardship.
 
 ## What is Spec Lead?
 
